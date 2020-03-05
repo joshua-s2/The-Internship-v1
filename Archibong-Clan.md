@@ -7,5 +7,5 @@ _Frontend(React.js)__
 Name <br/>
 Track
 ___
-Name <br/>
-Track
+Name Joshua Odejide <br/>
+Track Fronted(HTML & CSS)
